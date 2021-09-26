@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)'da Node.js Backend Eğitimi için oluşturduğum ilk repo. İçerisinde bir adet README.md ve bir adet index.html dosyası barındırıyor.
 
+![markdown](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. 
